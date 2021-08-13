@@ -1,4 +1,6 @@
-# Create a Registration Form in Pure Java
+# A Registration Form in Pure Java
+
+This project implements a standard registration form with error handling and cross-field validation. This signup form is developed 100% in pure Java using Vaadin Flow (no HTML or JavaScript involved). What’s more, the form is responsive, meaning that it automatically adjusts its content to fit different screen sizes. 
 
 The project is a standard Maven project. To run it from the command line,
 type `mvnw` (Windows), or `./mvnw` (Mac & Linux), then open
