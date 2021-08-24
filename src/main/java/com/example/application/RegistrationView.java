@@ -2,6 +2,7 @@ package com.example.application;
 
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.router.Route;
+import com.vaadin.flow.router.RouteAlias;
 
 /**
  * The main view that holds the registration form
@@ -14,6 +15,7 @@ import com.vaadin.flow.router.Route;
  * browser tab/window.
  */
 @Route("register")
+@RouteAlias("")
 public class RegistrationView extends VerticalLayout {
 
     /**
